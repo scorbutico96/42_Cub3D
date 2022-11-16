@@ -1,0 +1,9 @@
+*.out
+*.o
+*.a
+*.dylib
+*.sh
+.DS_Store
+.vscode/
+bin/
+obj/

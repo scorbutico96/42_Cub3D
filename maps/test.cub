@@ -1,0 +1,12 @@
+NO ./textures/bluestone.xpm
+SO ./textures/redbrick.xpm
+EA ./textures/mossy.xpm
+WE ./textures/wood.xpm
+
+F 92,92,92
+C 20,204,191
+
+      111 
+    11101  
+      1N1
+      111
